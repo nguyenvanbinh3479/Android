@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">LoginV3</string>
+    <string name="title">Đăng Nhập</string>
+    <string name="email">Email</string>
+    <string name="pass">Password</string>
+    <string name="btlogin">Sing In</string>
+    <string name="btSignup">Sign Up</string>
+    <string name="title1">Đăng Ký</string>
+    <string name="btcancel">Cancel</string>
+    <string name="ck">show password</string>
+</resources>
